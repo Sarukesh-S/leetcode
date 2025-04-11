@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sarukesh-S/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Sarukesh-S/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sarukesh-S/leetcode/tree/master/0069-sqrtx) |
+| [2998-count-symmetric-integers](https://github.com/Sarukesh-S/leetcode/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sarukesh-S/leetcode/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Sarukesh-S/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
