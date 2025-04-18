@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sarukesh-S/leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/0088-merge-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0978-valid-mountain-array](https://github.com/Sarukesh-S/leetcode/tree/master/0978-valid-mountain-array) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sarukesh-S/leetcode/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Sarukesh-S/leetcode/tree/master/2998-count-symmetric-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
