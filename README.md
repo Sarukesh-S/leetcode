@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sarukesh-S/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Sarukesh-S/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0978-valid-mountain-array](https://github.com/Sarukesh-S/leetcode/tree/master/0978-valid-mountain-array) |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sarukesh-S/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sarukesh-S/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
