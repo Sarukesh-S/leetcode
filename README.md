@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sarukesh-S/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sarukesh-S/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sarukesh-S/leetcode/tree/master/0263-ugly-number) |
+| [1448-maximum-69-number](https://github.com/Sarukesh-S/leetcode/tree/master/1448-maximum-69-number) |
 | [2998-count-symmetric-integers](https://github.com/Sarukesh-S/leetcode/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sarukesh-S/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sarukesh-S/leetcode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Sarukesh-S/leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
