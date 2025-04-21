@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sarukesh-S/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sarukesh-S/leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Sarukesh-S/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Sarukesh-S/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sarukesh-S/leetcode/tree/master/0263-ugly-number) |
 | [2998-count-symmetric-integers](https://github.com/Sarukesh-S/leetcode/tree/master/2998-count-symmetric-integers) |
 ## String
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Sarukesh-S/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sarukesh-S/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sarukesh-S/leetcode/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -98,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sarukesh-S/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Sarukesh-S/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
