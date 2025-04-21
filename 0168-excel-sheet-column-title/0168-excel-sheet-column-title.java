@@ -3,9 +3,9 @@ class Solution {
         StringBuilder result = new StringBuilder();
         
         while (columnNumber > 0) {
-            columnNumber--; // Adjust to 0-based index
+            columnNumber--; 
             char ch = (char) ('A' + (columnNumber % 26));
-            result.insert(0, ch); // Prepend character
+            result.insert(0, ch); 
             columnNumber /= 26;
         }
         
