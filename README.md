@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sarukesh-S/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Sarukesh-S/leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Sarukesh-S/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0978-valid-mountain-array](https://github.com/Sarukesh-S/leetcode/tree/master/0978-valid-mountain-array) |
 ## Two Pointers
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sarukesh-S/leetcode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Sarukesh-S/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sarukesh-S/leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Sarukesh-S/leetcode/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/Sarukesh-S/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
