@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarukesh-S/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sarukesh-S/leetcode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarukesh-S/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarukesh-S/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Sarukesh-S/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Sarukesh-S/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sarukesh-S/leetcode/tree/master/0067-add-binary) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sarukesh-S/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sarukesh-S/leetcode/tree/master/0053-maximum-subarray) |
 ## Linked List
 |  |
