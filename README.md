@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sarukesh-S/leetcode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarukesh-S/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sarukesh-S/leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Sarukesh-S/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Sarukesh-S/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sarukesh-S/leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0541-reverse-string-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sarukesh-S/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
