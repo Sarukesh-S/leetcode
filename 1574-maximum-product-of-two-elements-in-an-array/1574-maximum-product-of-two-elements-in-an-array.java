@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
          a=nums[nums.length-1];
          b=nums[nums.length-2];
-         break;
+        //  break;
         }
         a=a-1;
         b=b-1;
