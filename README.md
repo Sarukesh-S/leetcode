@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sarukesh-S/leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Sarukesh-S/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sarukesh-S/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sarukesh-S/leetcode/tree/master/0066-plus-one) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarukesh-S/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sarukesh-S/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Sarukesh-S/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sarukesh-S/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Sarukesh-S/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sarukesh-S/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Sarukesh-S/leetcode/tree/master/0076-minimum-window-substring) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sarukesh-S/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
