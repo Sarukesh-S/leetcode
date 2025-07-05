@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sarukesh-S/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sarukesh-S/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Sarukesh-S/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarukesh-S/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0978-valid-mountain-array](https://github.com/Sarukesh-S/leetcode/tree/master/0978-valid-mountain-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sarukesh-S/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarukesh-S/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Sarukesh-S/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarukesh-S/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sarukesh-S/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0541-reverse-string-ii) |
