@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sarukesh-S/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarukesh-S/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
 | [0978-valid-mountain-array](https://github.com/Sarukesh-S/leetcode/tree/master/0978-valid-mountain-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sarukesh-S/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarukesh-S/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Sarukesh-S/leetcode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/Sarukesh-S/leetcode/tree/master/1448-maximum-69-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Stack
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sarukesh-S/leetcode/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
