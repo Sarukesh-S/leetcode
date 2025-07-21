@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sarukesh-S/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Sarukesh-S/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Sarukesh-S/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Sarukesh-S/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sarukesh-S/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sarukesh-S/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Sarukesh-S/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sarukesh-S/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sarukesh-S/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarukesh-S/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarukesh-S/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sarukesh-S/leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Sarukesh-S/leetcode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Sarukesh-S/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sarukesh-S/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sarukesh-S/leetcode/tree/master/0242-valid-anagram) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sarukesh-S/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Sarukesh-S/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Sarukesh-S/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sarukesh-S/leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
