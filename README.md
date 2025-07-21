@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sarukesh-S/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarukesh-S/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sarukesh-S/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sarukesh-S/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Sarukesh-S/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sarukesh-S/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Sarukesh-S/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sarukesh-S/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sarukesh-S/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sarukesh-S/leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Sarukesh-S/leetcode/tree/master/0520-detect-capital) |
@@ -186,5 +188,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sarukesh-S/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sarukesh-S/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sarukesh-S/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
