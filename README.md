@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sarukesh-S/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sarukesh-S/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Sarukesh-S/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Sarukesh-S/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Sarukesh-S/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sarukesh-S/leetcode/tree/master/0217-contains-duplicate) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sarukesh-S/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sarukesh-S/leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Sarukesh-S/leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Sarukesh-S/leetcode/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
