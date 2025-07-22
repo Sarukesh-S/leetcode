@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
 | [0978-valid-mountain-array](https://github.com/Sarukesh-S/leetcode/tree/master/0978-valid-mountain-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2058-concatenation-of-array](https://github.com/Sarukesh-S/leetcode/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sarukesh-S/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sarukesh-S/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sarukesh-S/leetcode/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/Sarukesh-S/leetcode/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
