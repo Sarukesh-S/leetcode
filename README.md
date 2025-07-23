@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sarukesh-S/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Sarukesh-S/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Sarukesh-S/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Sarukesh-S/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sarukesh-S/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sarukesh-S/leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Sarukesh-S/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sarukesh-S/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sarukesh-S/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sarukesh-S/leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sarukesh-S/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
