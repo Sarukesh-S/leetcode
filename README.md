@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sarukesh-S/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sarukesh-S/leetcode/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarukesh-S/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0826-soup-servings](https://github.com/Sarukesh-S/leetcode/tree/master/0826-soup-servings) |
 | [1448-maximum-69-number](https://github.com/Sarukesh-S/leetcode/tree/master/1448-maximum-69-number) |
 | [2998-count-symmetric-integers](https://github.com/Sarukesh-S/leetcode/tree/master/2998-count-symmetric-integers) |
 ## String
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sarukesh-S/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sarukesh-S/leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Sarukesh-S/leetcode/tree/master/0392-is-subsequence) |
+| [0826-soup-servings](https://github.com/Sarukesh-S/leetcode/tree/master/0826-soup-servings) |
 ## Linked List
 |  |
 | ------- |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sarukesh-S/leetcode/tree/master/0200-number-of-islands) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Sarukesh-S/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
