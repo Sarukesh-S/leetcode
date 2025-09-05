@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/Sarukesh-S/leetcode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sarukesh-S/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sarukesh-S/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sarukesh-S/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Sarukesh-S/leetcode/tree/master/1448-maximum-69-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Stack
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sarukesh-S/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarukesh-S/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sarukesh-S/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Queue
 |  |
 | ------- |
