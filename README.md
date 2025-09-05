@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/Sarukesh-S/leetcode/tree/master/0978-valid-mountain-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/Sarukesh-S/leetcode/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sarukesh-S/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0541-reverse-string-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sarukesh-S/leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
