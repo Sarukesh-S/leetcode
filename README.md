@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/Sarukesh-S/leetcode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sarukesh-S/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sarukesh-S/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sarukesh-S/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarukesh-S/leetcode/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sarukesh-S/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sarukesh-S/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
