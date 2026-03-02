@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarukesh-S/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Sarukesh-S/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
+| [0929-unique-email-addresses](https://github.com/Sarukesh-S/leetcode/tree/master/0929-unique-email-addresses) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/Sarukesh-S/leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sarukesh-S/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0929-unique-email-addresses](https://github.com/Sarukesh-S/leetcode/tree/master/0929-unique-email-addresses) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Sarukesh-S/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Sarukesh-S/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Sarukesh-S/leetcode/tree/master/0541-reverse-string-ii) |
+| [0929-unique-email-addresses](https://github.com/Sarukesh-S/leetcode/tree/master/0929-unique-email-addresses) |
 | [0953-reverse-only-letters](https://github.com/Sarukesh-S/leetcode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sarukesh-S/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sarukesh-S/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
