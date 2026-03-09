@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sarukesh-S/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/Sarukesh-S/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Sarukesh-S/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/Sarukesh-S/leetcode/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sarukesh-S/leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Sarukesh-S/leetcode/tree/master/0200-number-of-islands) |
+| [1672-richest-customer-wealth](https://github.com/Sarukesh-S/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
