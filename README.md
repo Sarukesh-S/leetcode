@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sarukesh-S/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sarukesh-S/leetcode/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarukesh-S/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0492-construct-the-rectangle](https://github.com/Sarukesh-S/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0826-soup-servings](https://github.com/Sarukesh-S/leetcode/tree/master/0826-soup-servings) |
 | [1448-maximum-69-number](https://github.com/Sarukesh-S/leetcode/tree/master/1448-maximum-69-number) |
 | [2998-count-symmetric-integers](https://github.com/Sarukesh-S/leetcode/tree/master/2998-count-symmetric-integers) |
