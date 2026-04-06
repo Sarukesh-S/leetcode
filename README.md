@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Sarukesh-S/leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarukesh-S/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sarukesh-S/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1512-number-of-good-pairs](https://github.com/Sarukesh-S/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/Sarukesh-S/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Sarukesh-S/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarukesh-S/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0929-unique-email-addresses](https://github.com/Sarukesh-S/leetcode/tree/master/0929-unique-email-addresses) |
+| [1512-number-of-good-pairs](https://github.com/Sarukesh-S/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sarukesh-S/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Sarukesh-S/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0826-soup-servings](https://github.com/Sarukesh-S/leetcode/tree/master/0826-soup-servings) |
 | [1448-maximum-69-number](https://github.com/Sarukesh-S/leetcode/tree/master/1448-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/Sarukesh-S/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2998-count-symmetric-integers](https://github.com/Sarukesh-S/leetcode/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sarukesh-S/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Sarukesh-S/leetcode/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sarukesh-S/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1512-number-of-good-pairs](https://github.com/Sarukesh-S/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Queue
 |  |
 | ------- |
